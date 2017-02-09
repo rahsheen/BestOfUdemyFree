@@ -50,6 +50,9 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [Cisco CCNA Getting Started](https://www.udemy.com/cisco-ccna-getting-started/)
 * [CCNP Route 642-902 Implementing Cisco IP Routing](https://www.udemy.com/ccnproute/)
 
+## Security
+* [Start Kali Linux, Ethical Hacking and Penetration Testing!](https://www.udemy.com/ethical-hacker/)
+
 ## Design / Office
 * [How to Animate Logos for Companies & Brands](https://www.udemy.com/living-logos-animation-simple-after-effects/)
 * [Learn Adobe Photoshop from Scratch](https://www.udemy.com/learn-adobe-photoshop-from-scratch/)
